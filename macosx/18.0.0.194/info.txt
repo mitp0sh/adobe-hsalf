@@ -1,0 +1,8 @@
+3b66e1c032fbc7b664cc7e67478544abddc25f3d
+
+fixes CVEs:
+
+vulnerable for follwing CVEs:
+CVE-2015-5119
+https://helpx.adobe.com/security/products/flash-player/apsa15-03.html
+
